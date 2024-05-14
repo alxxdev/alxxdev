@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=alxxdev&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+- 🌱 I’m currently learning ...
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alxxdev&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **alxxdev/alxxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
