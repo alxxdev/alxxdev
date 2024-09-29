@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+# 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -11,6 +12,11 @@
 - 🔭 I’m currently working on ...
 
 <!--
+
+# 💫 About Me:
+
+## 🌐 Socials:
+
 **alxxdev/alxxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
